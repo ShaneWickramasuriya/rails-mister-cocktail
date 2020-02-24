@@ -1,0 +1,33 @@
+.cocktail-card {
+  background-color: $dark-gray;
+  border-radius: 2px;
+  padding: 16px 24px;
+  h2 {
+    font-size: 24px;
+    margin: 0;
+    color: white
+  }
+}
+
+// .cocktail-info {
+//   border: 2px solid $blue-gray;
+//   border-top: none;
+//   border-radius: 4px;
+// }
+
+.whole-card {
+  border: 2px solid $dark-gray;
+  border-radius: 4px;
+  margin: 8px auto 0 auto;
+  width: 80%;
+
+}
+.cocktail-content {
+  padding: 24px;
+
+}
+
+.fa-info-circle {
+  font-size: 24px;
+  color: white;
+}
